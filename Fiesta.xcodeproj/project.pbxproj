@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1C735C2029B0577600E87F50 /* FiestaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C735C1F29B0577600E87F50 /* FiestaApp.swift */; };
-		1C735C2229B0577600E87F50 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C735C2129B0577600E87F50 /* ContentView.swift */; };
+		1C735C2229B0577600E87F50 /* SplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C735C2129B0577600E87F50 /* SplashScreen.swift */; };
 		1C735C2429B0577700E87F50 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C735C2329B0577700E87F50 /* Assets.xcassets */; };
 		1C735C2729B0577700E87F50 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C735C2629B0577700E87F50 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		1C735C1C29B0577600E87F50 /* Fiesta.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fiesta.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C735C1F29B0577600E87F50 /* FiestaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FiestaApp.swift; sourceTree = "<group>"; };
-		1C735C2129B0577600E87F50 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		1C735C2129B0577600E87F50 /* SplashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreen.swift; sourceTree = "<group>"; };
 		1C735C2329B0577700E87F50 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1C735C2629B0577700E87F50 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				1C735C1F29B0577600E87F50 /* FiestaApp.swift */,
-				1C735C2129B0577600E87F50 /* ContentView.swift */,
+				1C735C2129B0577600E87F50 /* SplashScreen.swift */,
 				1C735C2329B0577700E87F50 /* Assets.xcassets */,
 				1C735C2529B0577700E87F50 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1C735C2229B0577600E87F50 /* ContentView.swift in Sources */,
+				1C735C2229B0577600E87F50 /* SplashScreen.swift in Sources */,
 				1C735C2029B0577600E87F50 /* FiestaApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
